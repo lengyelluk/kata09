@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<items>
+    <item>
+        <sku>A</sku>
+        <unitPrice>50</unitPrice>
+        <specialPrice>3 for 130</specialPrice>
+    </item>
+    <item>
+        <sku>B</sku>
+        <unitPrice>30</unitPrice>
+        <specialPrice>2 for 45</specialPrice>
+    </item>
+    <item>
+        <sku>C</sku>
+        <unitPrice>20</unitPrice>
+        <specialPrice></specialPrice>
+    </item>
+    <item>
+        <sku>D</sku>
+        <unitPrice>15</unitPrice>
+        <specialPrice></specialPrice>
+    </item>
+</items>
